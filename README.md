@@ -10,14 +10,9 @@ Bem-vindo(a) ao meu repositório de projetos de **Power BI**, criado com o prop�
 ## PROJETOS Power BI
 
 
-### Projetos do Curso DSA | Microsoft Power BI Para Business Intelligence e Data Science
-
-Os projetos abaixo são referentes a este curso de Power BI. O curso abrange desde os conceitos fundamentais até aplicações práticas em áreas cruciais, como marketing, recursos humanos, logística, finanças e análise do mercado de ações.
+### 📍 : Laborátorio 1: Relatório com indicadores dos perfis de clientes:
 
 
-### 📍 Primeiros Passos com o Microsoft Power BI: 
-
-Laborátorio 1: 
  <details>
 <summary>Resumo</summary></summary>
 
