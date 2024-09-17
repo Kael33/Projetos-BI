@@ -10,48 +10,41 @@ Bem-vindo(a) ao meu repositório de projetos de **Power BI**, criado com o prop�
 ## PROJETOS Power BI
 
 
-### 📍 : Laborátorio 1: Relatório com indicadores dos perfis de clientes:
-
+### 📍 Projeto 1: Relatório com indicadores dos perfis de clientes:
+https://app.powerbi.com/view?r=eyJrIjoiZWM4NmQ3MDYtMTIyNC00ZWYxLWJhYTMtYmUxNjU2OGEwZTRhIiwidCI6IjQ3OGVmZmY4LWJiNzAtNDc5Ni04ZTAwLTcxOWM1OGE5NmY2NiJ9
 
  <details>
 <summary>Resumo</summary></summary>
+Este dashboard fornece uma visão clara de que a maioria dos clientes e das vendas estão concentrados entre homens solteiros e na faixa etária de 26 a 35 anos. Homens casados também são um público significativo em termos de volume de vendas, especialmente na faixa dos 36 a 45 anos.
 
-O Laboratório Prático 1 é uma parte essencial do curso, focado na criação de um Dashboard Analítico de Vendas Globais. Durante o laboratório, recebemos uma visão geral abrangente e aprendem a carregar fontes de dados. Exploramos diversas visualizações, incluindo Cartão de Métricas, Gráfico de Pizza, Gráfico de Barras Empilhadas e Gráfico de Barras Horizontais, além de criar um Mapa Mundial. O laboratório também aborda a aplicação de filtros e segmentações de dados, finalizando com a formatação completa do dashboard, incluindo títulos, imagens e estilos, proporcionando uma conclusão prática e valiosa."
 
+  
 </details>
 
 
-### 📍 Modelagem, Relacionamentos e DAX: 
+### 📍 Modelagem e uso de funções de inteligência de tempo: 
+https://app.powerbi.com/view?r=eyJrIjoiMmQ3MzBlODgtZDg3Yy00ZThkLWEyMzEtNWQ3NmI1M2FhMDA5IiwidCI6IjQ3OGVmZmY4LWJiNzAtNDc5Ni04ZTAwLTcxOWM1OGE5NmY2NiJ9
 
-Laborátorio 2:
 
 <details>
 <summary>Resumo</summary>
 
-Neste painel de análise de vendas, realizei diversas etapas, incluindo modelagem de dados, estabelecimento de relações(**cardinalidade**), aplicação de recursos de limpeza de dados do Power BI e a utilização de expressões **DAX** para calcular a margem de lucro. 
+Neste painel de análise de vendas, realizei diversas etapas, incluindo modelagem de dados, estabelecimento de relações(**cardinalidade**), aplicação de recursos de limpeza de dados do Power BI e a utilização de expressões **DAX** para informar o faturamento do ano e mês anterior, também foi usado função **Dax** para calcular o total acumulado durante os meses do ano. 
 
 
 </details>
 
-### 📍 Análise de Dados de Marketing: 
-
-Mini-Projeto 1: 
+### 📍 Análise Report Folha de Pagamento: 
+https://app.powerbi.com/view?r=eyJrIjoiOTI0YjlhZjUtM2EyOS00MjUzLTgzODYtMjJhMTQ1NzZkOTY2IiwidCI6IjQ3OGVmZmY4LWJiNzAtNDc5Ni04ZTAwLTcxOWM1OGE5NmY2NiJ9
+ 
 <details>
 <summary>Resumo</summary>
-* O projeto visa utilizar a plataforma Power BI para analisar de forma abrangente uma campanha de marketing. Ele busca fornecer uma visão detalhada sobre o cliente, seu comportamento de compra, a eficácia da campanha de marketing e insights sobre os pontos de venda. Através dessas análises, a equipe pretende tomar decisões estratégicas informadas para melhorar o desempenho das campanhas e otimizar a relação com os clientes, aumentando assim a eficiência do marketing e as vendas.
+* O projeto visa utilizar a plataforma Power BI para analisar de forma abrangente os salários por área e centro de custo. Ele busca fornecer uma visão detalhada sobre os funcionários, Funcionários por centro de custo, salário por centro de custo e salário por cargo. Através dessas análises,  o departamento de recursos humanos e financeiro, pode monitorar os custos com pessoal, garantir o cumprimento de obrigações legais e fornecer transparência sobre os valores pagos a cada funcionário.
 </details>
 
 
-### 📍 Análise de Dados Comerciais: 
+## 📚 Skills
 
-Mini-projeto 2: 
-<summary>Resumo</summary>
-O objetivo do projeto do Dashboard Comercial é criar uma ferramenta de análise que permita acompanhar a performance de vendas de uma organização de forma eficaz. Ele visa fornecer informações detalhadas sobre o total de vendas por segmento, fabricante e categoria, identificar os principais influenciadores de vendas, e analisar o desempenho dos vendedores. Além disso, o dashboard irá apresentar um resumo por categoria e ponto de venda, e incluir um menu para facilitar a navegação e acesso rápido aos insights de vendas, auxiliando na tomada de decisões estratégicas.
-</details>
-
-### 📍 Análise de Dados de Recursos Humanos:
-
-Mini-Projeto 3: 
-<summary>Resumo</summary>
-O projeto de Análise de Dados de RH com Power BI tem como objetivo principal proporcionar insights estratégicos para a gestão de recursos humanos. Isso inclui a visualização do total de funcionários por função, a identificação do percentual de funcionários disponíveis para hora extra, a análise do percentual de funcionários por nível de envolvimento no trabalho, e a customização de valores percentuais utilizando medidas DAX como CountRows, Divide, Average e Calculate. Além disso, o projeto visa criar colunas condicionais para destacar informações relevantes e facilitar a interpretação dos dados, auxiliando assim na tomada de decisões relacionadas à gestão de pessoal de forma mais eficaz.
-</details>
+<sub> Data Scientist | Data Analyst  </sub>
+ 
+* Possuo competências em *SQL/MySQL/PostgreSQL, **ETL, **Power BI, **Excel, proatividade e muita vontade de apender. 📊🔍💡
